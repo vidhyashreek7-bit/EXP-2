@@ -51,7 +51,10 @@ Tabulation for Open Circuit Test
 
 Tabulation for Load Test:
 
+
 Model graph:
+```[beee2.pdf](https://github.com/user-attachments/files/25550900/beee2.pdf)```
+
 Calculation: 
 
 Open circuit characteristics
